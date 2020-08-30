@@ -6,18 +6,19 @@ You can learn more about me and my work over at my [website](https://www.syndami
 
 ## Experience in programming languages:
 
-||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|C#|█ █ █ █ █||CSS + HTML|█ █ ▒ ░ ░||C++|█ ▒ ░ ░ ░||PHP|█ ▒ ░ ░ ░|
-|JavaScript|█ ░ ░ ░ ░||Bash|▒ ░ ░ ░ ░||Python|▒ ░ ░ ░ ░|
-||||||||||||
-
-## My setup
-
 |||
 |---|---|
-|OS|[`Linux Mint 20 Cinnamon`](https://linuxmint.com/edition.php?id=281)|
-|Text Editor|[`Vim`](https://www.vim.org/)|
-|C# IDE|[`Monodevelop`](https://www.monodevelop.com/)|
-|Browser|[`Min`](https://minbrowser.org/)|
+|`C#`|▊▊▊▅|
+|`CSS + HTML`|▊▊▃|
+|`C++` `PHP` `JavaScript`|▊▃|
+|`Bash` `Python`|▅|
 |||
+
+## Personal Setup
+
+||||||
+|---|---|---|---|---|
+|OS|[`Linux Mint 20 Cinnamon`](https://linuxmint.com/edition.php?id=281)||Shell|[`zsh`](https://www.zsh.org/)|
+|Browser|[`Min`](https://minbrowser.org/)||Organisation and cloud|[`Nextcloud`](https://nextcloud.com/)|
+|Text Editor|[`Vim`](https://www.vim.org/)||Color scheme|[`gruvbox`](https://github.com/morhetz/gruvbox)|
+||||||
