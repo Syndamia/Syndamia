@@ -6,21 +6,5 @@ My skills (and interests) are mostly geared towards back-end development, althou
 
 You can learn more about me and my work over at my [website](https://www.syndamia.com).
 
-## Experience in programming languages
-
-|||
-|---|---|
-|`C#`|▊▊▊▅|
-|`CSS + HTML`|▊▊▃|
-|`C++` `PHP` `JavaScript`|▊▃|
-|`Bash` `Python` `Perl`|▅|
-|||
-
-## Personal Setup
-
-||||||
-|---|---|---|---|---|
-|OS|[`Linux Mint 20 Cinnamon`](https://linuxmint.com/edition.php?id=281)||Shell|[`zsh`](https://www.zsh.org/)|
-|Browser|[`Min`](https://minbrowser.org/)||Organisation and cloud|[`Nextcloud`](https://nextcloud.com/)|
-|Text Editor|[`Vim`](https://www.vim.org/)||Color scheme|[`gruvbox`](https://github.com/morhetz/gruvbox)|
-||||||
+[![Statistics](https://github-readme-stats.vercel.app/api?username=syndamia&show_icons=true&theme=gruvbox&include_all_commits=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syndamia&exclude_repo=Self-learning,School-Projects,LinuxMintCinnamon-setup&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
