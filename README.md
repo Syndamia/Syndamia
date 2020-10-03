@@ -2,7 +2,7 @@
 
 I'm Kamen and currently I'm a programming student.
 
-My skills (and interests) are mostly geared towards back-end development, but front-end is still fascinating.
+My skills (and interests) are mostly geared towards back-end development, but I have a bit of experience with front-end.
 
 You can learn more about me and my work over at my [website](https://www.syndamia.com).
 
