@@ -1,6 +1,6 @@
 # ![Hello!](https://github.com/Syndamia/Syndamia/blob/master/hello.png?raw=true)
 
-I'm Kamen and currently I'm a programming student.
+My name is Kamen and currently I'm a programming student.
 
 My skills (and interests) are mostly geared towards back-end development, but I have a bit of experience with front-end.
 
