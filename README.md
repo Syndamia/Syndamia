@@ -1,4 +1,4 @@
-# ![Hello!](https://github.com/Syndamia/Syndamia/blob/master/hello.png?raw=true)
+<img src="https://github.com/Syndamia/Syndamia/blob/master/hello.png?raw=true" height="80px" alt="Hello!">
 
 My name is Kamen and currently I'm a programming student.
 
