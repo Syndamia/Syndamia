@@ -6,6 +6,6 @@ My skills (and interests) are mostly geared towards back-end development, but I 
 
 ---
 
-For more about me and my work, refer to my [**Profile README**](https://syndamia.gitlab.io/Syndamia/) and [**website**](https://syndamia.com).
+### 90% of my projects are hosted on [**gitlab.com/Syndamia**](https://gitlab.com/Syndamia)
 
-Most old and new projects are hosted on [**https://gitlab.com/Syndamia**](https://gitlab.com/Syndamia)
+For more about me and my work, refer to my [**Profile README**](https://syndamia.gitlab.io/Syndamia/) and [**website**](https://syndamia.com).
