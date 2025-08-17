@@ -1,9 +1,7 @@
-<img src="https://github.com/Syndamia/Syndamia/blob/master/hello.png?raw=true" height="80px" alt="Hello!">
+> [!IMPORTANT]
+> I primarily use GitLab for my projects and have moved many repositories there.<br>
+> Click [here](https://gitlab.com/Syndamia) or on the image below to check it out!
 
-I’m a university student and general computer nerd. Currently, it seems that operating systems, browsers (how they work, not webdev) old tech and a teeny weeny bit of server administration and embeded systems interest me.
-
----
-
-# 99% of my projects are hosted on [**gitlab.com/Syndamia**](https://gitlab.com/Syndamia)
-
-[**Personal website**](https://syndamia.com)
+<a href="https://gitlab.com/Syndamia">
+  <img src="./Screen Shot 2025-08-17 at 10.18.09.png" alt"gitlab.com/Syndamia" title="gitlab.com/Syndamia">
+</a>
